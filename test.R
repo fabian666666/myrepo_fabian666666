@@ -8,4 +8,5 @@ print(10-9)
 print("old sport")
 y <- 2
 c
-z
+z <- 6
+
