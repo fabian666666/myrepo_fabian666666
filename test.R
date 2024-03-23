@@ -6,3 +6,4 @@ print("hello world")
 4+4
 print(10-9)
 print("old sport")
+y <- 2
